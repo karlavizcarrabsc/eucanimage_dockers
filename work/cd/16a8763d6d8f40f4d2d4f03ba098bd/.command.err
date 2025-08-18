@@ -1,0 +1,19 @@
+.command.run: line 284: TZ: unbound variable
+2025-08-07 22:18:46  INFO:Starting script
+2025-08-07 22:18:46  INFO:Using event: PCR_Prediction
+2025-08-07 22:18:46  INFO:Assessment data: ['assessment_results.json']
+2025-08-07 22:18:46  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:46  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  WARNING:No handles with labels found to put in legend.
+2025-08-07 22:18:47  INFO:Finished script successfully.

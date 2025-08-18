@@ -1,0 +1,9 @@
+.command.run: line 284: TZ: unbound variable
+Traceback (most recent call last):
+  File "/app/compute_metrics.py", line 199, in <module>
+    main(args)
+  File "/app/compute_metrics.py", line 171, in main
+    JSON_templates.write_assessment_dataset(
+  File "/usr/local/lib/python3.8/dist-packages/JSON_templates/main.py", line 87, in write_assessment_dataset
+    "value": float(metric_value),
+TypeError: float() argument must be a string or a number, not 'list'

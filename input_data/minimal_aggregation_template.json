@@ -1,0 +1,156 @@
+[
+    {
+        "_id": "ID_sensitivity",
+        "challenges_ids": [],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [],
+                "visualization": {
+                    "type": "bar-plot",
+                    "metric": "sensitivity"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "ID_specificity",
+        "challenges_ids": [],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [],
+                "visualization": {
+                    "type": "bar-plot",
+                    "metric": "specificity"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "ID_precision",
+        "challenges_ids": [],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [],
+                "visualization": {
+                    "type": "bar-plot",
+                    "metric": "precision"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "ID_npv",
+        "challenges_ids": [],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [],
+                "visualization": {
+                    "type": "bar-plot",
+                    "metric": "npv"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "ID_accuracy",
+        "challenges_ids": [],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [],
+                "visualization": {
+                    "type": "bar-plot",
+                    "metric": "accuracy"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "ID_f1_score",
+        "challenges_ids": [],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [],
+                "visualization": {
+                    "type": "bar-plot",
+                    "metric": "f1_score"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "ID_balanced_accuracy",
+        "challenges_ids": [],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [],
+                "visualization": {
+                    "type": "bar-plot",
+                    "metric": "balanced_accuracy"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "ID_cohen_kappa",
+        "challenges_ids": [],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [],
+                "visualization": {
+                    "type": "bar-plot",
+                    "metric": "cohen_kappa"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "ID_weighted_cohen_kappa",
+        "challenges_ids": [],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [],
+                "visualization": {
+                    "type": "bar-plot",
+                    "metric": "weighted_cohen_kappa"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "ID_matthews_corrcoef",
+        "challenges_ids": [],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [],
+                "visualization": {
+                    "type": "bar-plot",
+                    "metric": "matthews_corrcoef"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "ID_roc_auc",
+        "challenges_ids": [],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [],
+                "visualization": {
+                    "type": "bar-plot",
+                    "metric": "roc_auc"
+                }
+            }
+        },
+        "type": "aggregation"
+    }
+]

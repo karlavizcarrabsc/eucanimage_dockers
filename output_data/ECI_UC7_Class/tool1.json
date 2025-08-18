@@ -1,0 +1,146 @@
+[
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:sensitivity",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "sensitivity",
+            "stderr": 0.0,
+            "value": 0.8928571428571429
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:specificity",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "specificity",
+            "stderr": 0.0,
+            "value": 0.9772727272727273
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:precision",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "precision",
+            "stderr": 0.0,
+            "value": 0.9803921568627451
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:npv",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "npv",
+            "stderr": 0.0,
+            "value": 0.8775510204081632
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:accuracy",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "accuracy",
+            "stderr": 0.0,
+            "value": 0.93
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:f1_score",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "f1_score",
+            "stderr": 0.0,
+            "value": 0.9345794392523364
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:balanced_accuracy",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "balanced_accuracy",
+            "stderr": 0.0,
+            "value": 0.9350649350649352
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:cohen_kappa",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "cohen_kappa",
+            "stderr": 0.0,
+            "value": 0.859663191659984
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:weighted_cohen_kappa",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "weighted_cohen_kappa",
+            "stderr": 0.0,
+            "value": 0.859663191659984
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:matthews_corrcoef",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "matthews_corrcoef",
+            "stderr": 0.0,
+            "value": 0.8640150377265107
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:roc_auc",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "roc_auc",
+            "stderr": 0.0,
+            "value": 0.9874188311688312
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_tool1:pr_auc",
+        "challenge_id": "ECI_UC7_Class",
+        "community_id": "EuCanImage",
+        "metrics": {
+            "metric_id": "pr_auc",
+            "stderr": 0.0,
+            "value": 0.9907318541043127
+        },
+        "participant_id": "tool1",
+        "type": "assessment"
+    }
+]

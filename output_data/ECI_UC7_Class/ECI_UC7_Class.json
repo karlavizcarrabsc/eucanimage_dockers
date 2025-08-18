@@ -1,0 +1,275 @@
+[
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:sensitivity",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.8928571428571429,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "sensitivity",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:specificity",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.9772727272727273,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "specificity",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:precision",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.9803921568627451,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "precision",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:npv",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.8775510204081632,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "npv",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:accuracy",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.93,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "accuracy",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:balanced_accuracy",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.9350649350649352,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "balanced_accuracy",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:f1_score",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.9345794392523364,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "f1_score",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:balanced_accuracy",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.9350649350649352,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "balanced_accuracy",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:cohen_kappa",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.859663191659984,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "cohen_kappa",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:weighted_cohen_kappa",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.859663191659984,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "weighted_cohen_kappa",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:weighted_cohen_kappa",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.859663191659984,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "weighted_cohen_kappa",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:matthews_corrcoef",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.8640150377265107,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "matthews_corrcoef",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    },
+    {
+        "_id": "EuCanImage:PCR_Prediction_ECI_UC7_Class_agg:roc_auc",
+        "challenges_ids": [
+            "ECI_UC7_Class"
+        ],
+        "datalink": {
+            "inline_data": {
+                "challenge_participants": [
+                    {
+                        "metric_value": 0.9874188311688312,
+                        "participant_id": "tool1"
+                    }
+                ],
+                "visualization": {
+                    "metric": "roc_auc",
+                    "type": "bar-plot"
+                }
+            }
+        },
+        "type": "aggregation"
+    }
+]

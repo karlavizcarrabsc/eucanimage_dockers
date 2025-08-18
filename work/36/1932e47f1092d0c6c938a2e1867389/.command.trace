@@ -1,0 +1,17 @@
+nextflow.trace/v2
+realtime=491
+%cpu=9137
+cpu_model=AMD EPYC 7272 12-Core Processor
+rchar=9290879
+wchar=2825
+syscr=1243
+syscw=15
+read_bytes=618496
+write_bytes=8192
+%mem=0
+vmem=1923432
+rss=17840
+peak_vmem=1923444
+peak_rss=17840
+vol_ctxt=21
+inv_ctxt=2

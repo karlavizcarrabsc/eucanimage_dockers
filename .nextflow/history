@@ -1,0 +1,11 @@
+2025-06-26 11:27:54	5.3s	scruffy_lamarr	ERR	17f75be415bf9cbdf5a31332e9899327	2067a2c9-2dcf-4959-a13f-e0e94190eea8	nextflow run main.nf -profile docker -c parameters_file.config --participant_id tool1
+2025-06-26 11:29:12	3.8s	lonely_brattain	ERR	17f75be415bf9cbdf5a31332e9899327	d7330a64-6468-416f-84c3-18b575d7fdab	nextflow run main.nf -profile docker -c parameters_file.config --participant_id tool1
+2025-06-26 11:36:01	6.1s	fervent_jepsen	ERR	17f75be415bf9cbdf5a31332e9899327	6ad96463-2742-4587-81b8-e2659e19b042	nextflow run main.nf -profile docker -c parameters_file.config --participant_id tool1
+2025-06-26 11:49:58	6.5s	determined_bardeen	ERR	17f75be415bf9cbdf5a31332e9899327	946cd139-50b7-405b-9ca5-b5c341d3d8bc	nextflow run main.nf -profile docker -c parameters_file.config --participant_id tool1
+2025-06-26 11:52:58	8.6s	spontaneous_lamport	ERR	17f75be415bf9cbdf5a31332e9899327	34ee1799-39c7-4de0-ac54-f76366bc6f4a	nextflow run main.nf -profile docker -c parameters_file.config --participant_id tool1
+2025-06-26 12:06:11	8.9s	exotic_wright	OK	17f75be415bf9cbdf5a31332e9899327	8650ca80-29a6-4ce3-8543-7bb8dd159426	nextflow run main.nf -profile docker -c parameters_file.config --participant_id tool1
+2025-08-07 22:18:39	10.1s	crazy_curie	OK	17f75be415bf9cbdf5a31332e9899327	f4eb810f-2e49-4249-aeab-ddab6835a79a	nextflow run main.nf -profile docker -c parameters_file.config --participant_id tool1
+2025-08-11 14:24:13	4s	peaceful_kilby	ERR	17f75be415bf9cbdf5a31332e9899327	e6ee54f9-348f-41bc-bb13-cd5d13ca376d	nextflow run main.nf -profile docker -c parameters_file.config --participant_id tool1
+2025-08-11 14:28:09	5.6s	loving_curie	ERR	17f75be415bf9cbdf5a31332e9899327	c93b2e65-8184-4db6-982d-229d16fab19c	nextflow run main.nf -profile docker -c parameters_file.config --participant_id tool1
+2025-08-11 14:40:07	8.1s	crazy_jang	ERR	17f75be415bf9cbdf5a31332e9899327	35847312-39b0-4771-88c0-6d86591287da	nextflow run main.nf -profile docker -c parameters_file.config --participant_id tool1
+2025-08-11 14:56:53	8.7s	silly_stone	OK	17f75be415bf9cbdf5a31332e9899327	cf36a21a-17c8-406f-8803-222d7ad6b119	nextflow run main.nf -profile docker -c parameters_file.config --participant_id tool1

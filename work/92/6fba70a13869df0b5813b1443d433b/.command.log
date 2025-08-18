@@ -1,0 +1,24 @@
+.command.run: line 284: TZ: unbound variable
+2025-08-11 14:40:14  INFO:Starting script
+2025-08-11 14:40:14  INFO:Using event: PCR_Prediction
+2025-08-11 14:40:14  INFO:Assessment data: ['assessment_results.json']
+2025-08-11 14:40:14  ERROR:'type'
+Traceback (most recent call last):
+  File "/app/aggregation.py", line 366, in <module>
+    main(options)
+  File "/app/aggregation.py", line 115, in main
+    aggregation_template, community_id, event, challenge_id, metrics_ids)
+  File "/app/aggregation.py", line 275, in load_aggregation_template
+    if viz["type"] == Visualisations.TWODPLOT.value:
+KeyError: 'type'
+HERE ['assessment_results.json'] output_data
+Traceback (most recent call last):
+  File "/app/aggregation.py", line 371, in <module>
+    raise e
+  File "/app/aggregation.py", line 366, in <module>
+    main(options)
+  File "/app/aggregation.py", line 115, in main
+    aggregation_template, community_id, event, challenge_id, metrics_ids)
+  File "/app/aggregation.py", line 275, in load_aggregation_template
+    if viz["type"] == Visualisations.TWODPLOT.value:
+KeyError: 'type'

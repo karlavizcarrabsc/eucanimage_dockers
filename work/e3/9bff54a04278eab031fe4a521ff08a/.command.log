@@ -1,0 +1,21 @@
+.command.run: line 284: TZ: unbound variable
+2025-06-26 11:53:05  INFO:Starting script
+2025-06-26 11:53:05  INFO:Using event: Brain_Cancer_Diagnosis
+2025-06-26 11:53:05  INFO:Assessment data: ['assessment_results.json']
+2025-06-26 11:53:05  ERROR:list index out of range
+Traceback (most recent call last):
+  File "/app/aggregation.py", line 366, in <module>
+    main(options)
+  File "/app/aggregation.py", line 152, in main
+    for item in new_aggregation[0]["datalink"]["inline_data"]["challenge_participants"]:
+IndexError: list index out of range
+HERE ['assessment_results.json'] output_data
+HERE []
+Traceback (most recent call last):
+  File "/app/aggregation.py", line 371, in <module>
+    raise e
+  File "/app/aggregation.py", line 366, in <module>
+    main(options)
+  File "/app/aggregation.py", line 152, in main
+    for item in new_aggregation[0]["datalink"]["inline_data"]["challenge_participants"]:
+IndexError: list index out of range
