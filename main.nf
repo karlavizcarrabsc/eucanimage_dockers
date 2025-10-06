@@ -47,7 +47,7 @@ if (params.help) {
 	    ==============================================
 	    BENCHMARKING PIPELINE IN OPENEBENCH
 	    ==============================================
-	        Input file: ${params.input_file}
+	        Input file: ${params.input}
 	        Benchmarking community = ${params.community_id}
 			Challenges ids: ${params.challenges_ids}
 			Participant id : ${params.participant_id}
@@ -68,7 +68,7 @@ if (params.help) {
 
 // Input
 
-input_file = Channel.fromPath(params.input_file, type: 'file')
+input_file = Channel.fromPath(params.input, type: 'file')
 participant_id = params.participant_id.replaceAll("\\s","_")
 goldstandard_dir = Channel.fromPath(params.goldstandard_dir, type: 'dir' ) 
 challenges_ids = params.challenges_ids
